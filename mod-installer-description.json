@@ -39,14 +39,14 @@
 			],
 			"assets": [
 				{
-					"url": "https://github.com/joe-buckley/FISH/releases/download/v0.1/Fish.dll"
-					"url": "https://github.com/joe-buckley/FISH/releases/download/v0.1/FishConfig.json"
+					"url": "https://github.com/joe-buckley/FISH/releases/download/v0.1/Fish.dll",
+					"url": "https://github.com/joe-buckley/FISH/releases/download/v0.1/FishConfig.json",
 					"url": "https://github.com/joe-buckley/FISH/releases/download/v0.1/FISH_readme.md"
 				}
 			]
 			
 			
-		},
+		}
 		
 	]
 }
