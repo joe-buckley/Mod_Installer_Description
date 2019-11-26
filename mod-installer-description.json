@@ -19,8 +19,7 @@
 			"assets": [
 				{
 					"url": "https://github.com/joe-buckley/Solstice_RV/releases/download/0.1/Solstice_RV.dll"
-				},
-				{
+				},{
 					"url": "https://github.com/joe-buckley/Solstice_RV/releases/download/0.1/Solstice_RV_Readme.md"
 				}
 			]
@@ -43,11 +42,9 @@
 			"assets": [
 				{
 					"url": "https://github.com/joe-buckley/FISH/releases/download/0.1/Fish.dll"
-				},
-				{
+				},{
 					"url": "https://github.com/joe-buckley/FISH/releases/download/0.1/FishConfig.json"
-				},
-				{
+				},{
 					"url": "https://github.com/joe-buckley/FISH/releases/download/0.1/Fish_readme.md"
 				}
 			]
