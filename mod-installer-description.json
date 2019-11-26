@@ -12,7 +12,7 @@
 				}
 			]
 		}
-	]
+	],
 
 	"name": "Fish",
 	"description": "Overhaul of fishing mechanic adding population dynamics\n\nConfigurable from json file.",
